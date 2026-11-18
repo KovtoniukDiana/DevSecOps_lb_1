@@ -4,3 +4,9 @@
 node_modules/
 __pycache__/
 .vscode/
+
+# virtual environment
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
